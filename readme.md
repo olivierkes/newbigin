@@ -2,9 +2,11 @@
 *Français plus bas.*
 
 **Aim:** Work *of* and *on* Lesslie Newbigin referenced in a single bibtex (biblatex, actually) database.
-Aiming at exhaustivity, **but not there yet**.
+Aiming at exhaustivity, *but not there yet*.
 
 This is actually to help me for my PhD, but I'm glad if it's usefull for other as well.
+
+**HTML preview:** [biblio_newbigin_preview.html](http://htmlpreview.github.io/?https://raw.github.com/olivierkes/newbigin/master/biblio_newbigin_preview.html) (current version)
 
 ##FAQ
 
@@ -29,14 +31,15 @@ I also found useful informations on:
 #Français
 
 **Projet:** Une bibligraphie des œuvres *de* et *sur* Lesslie Newbigin, en format bibtex (biblatex, en fait).
-Vise l'exhaustivité, **mais n'y est pas encore**.
+Vise l'exhaustivité, *mais n'y est pas encore*.
 
 Je maintient cette base de donnée pour mon doctorat, mais j'espère qu'elle sera utile d'une manière plus large.
 
+**Apperçu HTML:** [biblio_newbigin_preview.html](http://htmlpreview.github.io/?https://raw.github.com/olivierkes/newbigin/master/biblio_newbigin_preview.html) (dernière version)
 
 ##FAQ
 
-+ **Comment contribuer? ** Si vous trouvez une référence qui devrait être dans cette bibliographie mais qui n'y est pas, merci de l'ajouter. Si vous ne savez pas comment Git fonctionne et ne voulez pas apprendre, pas de problèmes, envoyez moi un mail avec la référence.
++ **Comment contribuer?** Si vous trouvez une référence qui devrait être dans cette bibliographie mais qui n'y est pas, merci de l'ajouter. Si vous ne savez pas comment Git fonctionne et ne voulez pas apprendre, pas de problèmes, envoyez moi un mail avec la référence.
 
 + **Quel logiciel utiliser?** Il existe de nombreux logiciels pour gérer une bibliographie au format bibtex, j'utilise [JabRef](http://jabref.sourceforge.net/).
 
