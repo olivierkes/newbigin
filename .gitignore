@@ -1,0 +1,11 @@
+*.pdf
+*.mp3
+*.log
+*.zip
+*~
+*.bak
+*Case Conflict*
+*.kate-swp
+*.epub
+*.cfm*
+.directory
