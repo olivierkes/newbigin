@@ -19,7 +19,7 @@ This is actually to help me for my PhD, but I'm glad if it's usefull for other a
 
 ##Thanks
 
-I started from an outdated bibliography in a closed format, found on www.newbigin.net. Thanks to their work !
+I started from an outdated bibliography in a closed format, found on www.newbigin.net, compiled originally by Dr. George Hunsberger and Dr. Tom Foust. Thanks for their work !
 
 I also found useful informations on:
 
@@ -47,7 +47,7 @@ Je maintient cette base de donnée pour mon doctorat, mais j'espère qu'elle ser
 
 ##Sources et remerciements
 
-Je suis parti d'une bibliographie abandonnée dans un format privateur, que je fais évolué vers plus de liberté et d'actualité.
+Je suis parti d'une bibliographie abandonnée dans un format privateur, compilée par George Hunsberger et Tom Foust, que je fais évolué vers plus de liberté et d'actualité.
 
 J'ai notamment puisé ici:
 
